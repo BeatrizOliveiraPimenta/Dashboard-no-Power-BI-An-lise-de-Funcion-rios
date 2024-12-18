@@ -2,13 +2,11 @@
   Desenvolvi este dashboard com o objetivo de simplificar a análise de dados e trazer clareza para questões fundamentais relacionadas à gestão de recursos humanos, oferecendo insights valiosos que facilitam tomadas de decisões estratégicas.
 <br><br>
 
-
 🔑 KPI's utilizadas:
 <br>
 - Funcionários com dependentes;
 - Total de salários por cargo;
 - Localização dos funcionários.
-
 <br><br>
 
 💡 Desafios abordados:
@@ -20,7 +18,6 @@ Proporciona uma visão clara do impacto financeiro dos salários, ajudando a ide
 - Distribuição geográfica dos funcionários:
 Oferece insights sobre a localização dos colaboradores, facilitando a alocação de equipes, planejamento de treinamentos presenciais ou até estratégias de expansão da empresa
 <br><br>
-
 
 🛠 Recursos aplicados:
 <br>
