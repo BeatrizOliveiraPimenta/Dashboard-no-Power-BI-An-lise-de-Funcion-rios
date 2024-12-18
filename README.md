@@ -1,4 +1,4 @@
-# Dashboard-no-Power-BI-An-lise-de-Funcion-rios
+# Dashboard-no-Power-BI-Analise-de-Funcionarios
   Desenvolvi este dashboard com o objetivo de simplificar a análise de dados e trazer clareza para questões fundamentais relacionadas à gestão de recursos humanos, oferecendo insights valiosos que facilitam tomadas de decisões estratégicas.
 <br><br>
 
